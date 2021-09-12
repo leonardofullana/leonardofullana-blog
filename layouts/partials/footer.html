@@ -8,9 +8,9 @@
           {{ .Site.Params.newsletter.content | markdownify }}</p>
         <form action="#" class="row justify-content-center">
           <div class="input-group col-md-8">
-            <input type="text" class="form-control" placeholder="Your Email Address">
+            <input type="text" class="form-control" placeholder="Coloque seu melhor email">
             <div class="input-group-append">
-              <button class="input-group-text btn btn-primary">Subscribe</button>
+              <button class="input-group-text btn btn-primary">Quero me inscrever</button>
             </div>
           </div>
         </form>
@@ -28,7 +28,7 @@
       </div>
       {{ if or  .Site.Params.mobile .Site.Params.location .Site.Params.email }}         
       <div class="col-lg-3 col-sm-6 mb-5">
-        <h6 class="mb-4">Contact Me</h6>
+        <h6 class="mb-4">Contato</h6>
         <ul class="list-unstyled">
           {{ if .Site.Params.mobile }}
           <li class="mb-3"><a class="text-dark" href="tel:{{ .Site.Params.mobile }}"><i
@@ -46,7 +46,7 @@
       </div>
       {{ end }}
       <div class="col-lg-3 col-sm-6 mb-5">
-        <h6 class="mb-4">Social Contacts</h6>
+        <h6 class="mb-4">Redes sociais</h6>
         <ul class="list-unstyled">
           {{ range .Site.Params.social }}
           <li class="mb-3"><a class="text-dark" href="{{ .link | safeURL }}">{{ .title }}</a></li>
@@ -54,7 +54,7 @@
         </ul>
       </div>
       <div class="col-lg-3 col-sm-6 mb-5">
-        <h6 class="mb-4">Categories</h6>
+        <h6 class="mb-4">Categorias</h6>
         {{- if isset .Site.Taxonomies "categories" }}
         {{- if not (eq (len .Site.Taxonomies.categories) 0) }}
         <ul class="list-unstyled">
@@ -68,7 +68,7 @@
         {{- end }}
       </div>
       <div class="col-lg-3 col-sm-6 mb-5">
-        <h6 class="mb-4">Quick Links</h6>
+        <h6 class="mb-4">Links rápidos</h6>
         <ul class="list-unstyled">
           {{ range .Site.Menus.footer }}
           <li class="mb-3"><a class="text-dark" href="{{ .URL | absURL }}">{{ .Name }}</a></li>
@@ -99,7 +99,7 @@
 {{ if site.Params.cookies.enable }}
 <script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.1/js.cookie.min.js"></script>
 <div id="js-cookie-box" class="cookie-box cookie-box-hide">
-	This site uses cookies. By continuing to use this website, you agree to their use. <span id="js-cookie-button" class="btn btn-sm btn-primary ml-2">I Accept</span>
+	Esse site usa cookies. Ao continuar usando este site, você concorda com o uso desses. <span id="js-cookie-button" class="btn btn-sm btn-primary ml-2">Eu aceito</span>
 </div>
 <script>
 	(function ($) {

@@ -5,11 +5,11 @@ image: images/author.jpg
 description: Conheça Leonardo Fullana, o autor do blog de Product Analytics.
 menu:
   main:
-    name: Sobre
+    name: Sobre o autor
     URL: about
     weight: 1
   footer:
-    name: Sobre
+    name: Sobre o autor
     URL: about
     weight: 1
 

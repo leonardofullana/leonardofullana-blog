@@ -1,7 +1,7 @@
 ---
-title: Sobre o autor
+title: O autor
 date: 2021-09-12T22:00:23.000+00:00
-image: "/uploads/leonardo-fullana-foto.png"
+image: "/uploads/leonardo-fullana.png"
 description: Conheça Leonardo Fullana, o autor do blog de Product Analytics.
 menu:
   main:

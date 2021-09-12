@@ -13,7 +13,7 @@
           <span>Por {{if .Params.Author}}{{ .Params.Author }}{{else}}{{.Site.Params.Author}}{{end}}</span>
           {{ if not .Params.HideDate }}
           <span class="border-bottom border-primary px-2 mx-1"></span>
-          <span>{{ .PublishDate.Format "30/01/2006" }}</span>
+          <span>{{ .PublishDate.Format "Jan 2006" }}</span>
           {{ end }}
         </div>
         {{ if .Params.image }}

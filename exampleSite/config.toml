@@ -4,7 +4,7 @@ languageCode = "pt-br"
 paginate = 6
 summaryLength = "10"
 theme = "liva-hugo"
-title = "Blod de Product Analytics | Leonardo Fullana"
+title = "Aprenda Product Analytics | Leonardo Fullana"
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]

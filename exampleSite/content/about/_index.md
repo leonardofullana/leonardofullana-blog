@@ -1,20 +1,18 @@
 ---
-title: Prazer, me chamo Leonardo Fullana.
-date: 2021-09-12T22:00:23+00:00
+title: Sobre o autor
+date: 2021-09-12T22:00:23.000+00:00
 image: "/uploads/leonardo-fullana-foto.png"
 description: Conheça Leonardo Fullana, o autor do blog de Product Analytics.
 menu:
   main:
-    name: Sobre o autor
     URL: about
     weight: 1
   footer:
-    name: Sobre o autor
     URL: about
     weight: 1
 
 ---
-Nascido em Brasília, jogador de RPG, leitor ávido e filho único até os 23 anos, mesmo com apenas 26 anos já possuo 7 anos de experiência profissional na área de Analytics, Data Science e Produto.
+Me chamo Leonardo Fullana, sou nascido em Brasília, jogador de RPG, leitor ávido e filho único até os 23 anos e mesmo com apenas 26 anos já possuo 7 anos de experiência profissional na área de Analytics, Data Science e Produto.
 
 Com uma carreira profissional iniciada na área de marketing - focado em marketing digital - evoluindo para Ciência de Dados e agora, especificamente, Product Management, comecei a desenvolver habilidades analíticas desde o início da minha jornada, me preocupando sempre em ter uma visão macro do negócio, orientada em KPIs bem definidos, objetivos e metas, reforçando sempre a Cultura Analítica.
 

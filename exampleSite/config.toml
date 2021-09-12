@@ -1,6 +1,7 @@
-baseURL = "https:leonardofullana.com.br/"
+baseURL = "https://leonardofullana.com.br/"
 disqusShortname = ""
-languageCode = "pt-pt"
+languageCode = "pt"
+defaultContentLanguage = "pt"
 paginate = 6
 summaryLength = "10"
 theme = "liva-hugo"
@@ -16,7 +17,6 @@ googleAnalitycsID = "Your ID"
 home = "Home"
 location = "Brasília, Brasil"
 logo = "images/logo.png"
-mobile = "0124857985320"
 [params.cookies]
 enable = true
 expire_days = 2

@@ -11,7 +11,7 @@ home = ["HTML", "RSS", "JSON"]
 [params]
 author = "Leonardo Fullana"
 copyright = "Copyright &copy; 2021 Leonardo Fullana | Todos os direitos reservados."
-description = "Aprenda Product Analytics com teoria aplicada na prática. Acesse as publicações e evolua seu nível de Product manager! "
+description = "Aprenda Product Analytics com teoria aplicada na prática. Acesse as publicações e evolua seu nível analítico!"
 email = "leonardofullana@gmail.com"
 googleAnalitycsID = "Your ID"
 home = "Home"

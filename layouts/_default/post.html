@@ -13,7 +13,7 @@
             <span>Por {{ .Site.Params.Author }}</span>
             {{ if not .Params.HideDate }}
             <span class="border-bottom border-primary px-2 mx-1"></span>
-            <span>{{ .PublishDate.Format "01/02/2006" }}</span>
+            <span>{{ .PublishDate.Format "dd/mm/yyyy" }}</span>
             {{ end }}
         </div>
         <p class="card-text">{{ .Summary }}</p>

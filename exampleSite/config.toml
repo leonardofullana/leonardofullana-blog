@@ -1,29 +1,29 @@
 baseURL = "https://demo.gethugothemes.com/liva/"
 disqusShortname = ""
-languageCode = "en-us"
+languageCode = "pt-br"
 paginate = 6
 summaryLength = "10"
 theme = "liva-hugo"
-title = "Liva | Personal blog template"
+title = "Blod de Product Analytics | Leonardo Fullana"
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
-author = "Themefisher"
-copyright = "| copyright &copy; 2021 [Themefisher](https://themefisher.com/hugo-themes/) All Rights Reserved |"
-description = "This is meta description"
-email = "demo@email.com"
+author = "Leonardo Fullana"
+copyright = "Copyright &copy; 2021 Leonardo Fullana | Todos os direitos reservados."
+description = "Aprenda Product Analytics com teoria aplicada na prática. Acesse as publicações e evolua seu nível de Product manager! "
+email = "leonardofullana@gmail.com"
 googleAnalitycsID = "Your ID"
 home = "Home"
-location = "Dhaka, Bangladedsh"
+location = "Brasília, Brasil"
 logo = "images/logo.png"
 mobile = "0124857985320"
 [params.cookies]
 enable = true
 expire_days = 2
 [params.newsletter]
-content = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero"
+content = "Coloque seu email abaixo para receber as novas publicações direto em seu email, assim que forem publicadas. Você nunca receberá spam."
 enable = true
-title = "Join Our Newsletter"
+title = "Receba novas publicações em seu email!"
 [[params.plugins.css]]
 URL = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
@@ -50,24 +50,16 @@ URL = "plugins/search/search.js"
 enable = true
 preloader = ""
 [params.search]
-enable = true
-[[params.social]]
-icon = "ti-facebook"
-link = "#"
-title = "facebook"
-[[params.social]]
-icon = "ti-twitter-alt"
-link = "#"
-title = "twitter"
+enable = false
 [[params.social]]
 icon = "ti-instagram"
-link = "#"
+link = "https://instagram.com/leonardofullana"
 title = "instagram"
 [[params.social]]
-icon = "ti-github"
-link = "#"
-title = "github"
-[[params.social]]
 icon = "ti-linkedin"
-link = "#"
+link = "https://linkedin.com/in/leonardofullana"
 title = "linkedin"
+[[params.social]]
+icon = "ti-github"
+link = "https://github.com/leonardofullana/"
+title = "github"

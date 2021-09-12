@@ -16,6 +16,7 @@ email = "leonardofullana@gmail.com"
 googleAnalitycsID = "Your ID"
 home = "Home"
 location = "Brasília, Brasil"
+mobile = "(61) 9 9590-4225"
 logo = "images/logo.png"
 [params.cookies]
 enable = true

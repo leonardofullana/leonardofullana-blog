@@ -1,6 +1,6 @@
 baseURL = "https://demo.gethugothemes.com/liva/"
 disqusShortname = ""
-languageCode = "pt-br"
+languageCode = "pt"
 paginate = 6
 summaryLength = "10"
 theme = "liva-hugo"

@@ -1,8 +1,8 @@
 ---
-title: About Me
-date: 2019-10-29T13:49:23.000+06:00
+title: Quem é Leonardo Fullana?
+date: 2021-09-12T22:00:23+00:00
 image: images/author.jpg
-description: this is meta description
+description: Conheça Leonardo Fullana, o autor do blog de Product Analytics.
 menu:
   main:
     name: Sobre

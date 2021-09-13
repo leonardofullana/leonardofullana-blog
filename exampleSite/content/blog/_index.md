@@ -1,8 +1,8 @@
 ---
 title: blog
 date: 2019-10-29T13:49:23.000+06:00
-description: Publicações que aplicam a teoria de Product Analytics na prática. Clique
-  e leia agora!
+description: Aprenda a aplicar a teoria de Product Analytics na prática. Clique e
+  leia agora!
 menu:
   main:
     name: Postagens

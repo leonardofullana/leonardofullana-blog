@@ -17,7 +17,7 @@ googleAnalitycsID = "Your ID"
 home = "Home"
 location = "Brasília, Brasil"
 mobile = "(61) 9 9590-4225"
-logo = "images/logo.png"
+logo = "/uploads/logo-fullana.png"
 [params.cookies]
 enable = true
 expire_days = 2

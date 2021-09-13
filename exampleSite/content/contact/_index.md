@@ -1,6 +1,6 @@
 ---
-title: Quer entrar em contato?
-date: 2019-10-29T13:49:23.000+06:00
+title: Entre em contato
+date: 
 description: Entre em contato com Leonardo Fullana para falar sobre Product Analytics.
 menu:
   main:

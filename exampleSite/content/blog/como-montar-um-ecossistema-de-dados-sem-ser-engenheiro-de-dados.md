@@ -176,4 +176,4 @@ Ah! Não esqueça de se increver na caixa abaixo do texto para receber as novas 
 
 Até o próximo artigo!
 
-_Photos by_ [_Unsplash_](https://unsplash.com/s/photos/working-on-laptop?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+_Photos by_ [_Unsplash_](https://unsplash.com/s/photos/working-on-laptop?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_._

@@ -20,13 +20,13 @@ Existem **diversos** **motivos para você querer realizar análises de dados** d
 
 Você provavelmente quer aprender algum item dessa lista:
 
-* Como analisar os indicadores de vendas da empresa.
-* Como enteder as métricas que compõem seus KPIs;
-* Como criar uma dashboard para visão única dos números da empresa;
-* Como fazer análises de dados cruzando dados de clientes com vendas;
-* Como analisar a sazonalidade de compras;
-* Como descobrir quais são os produtos que mais vendem;
-* Como definir o cliente ideal para cada categoria de produto.
+* Como analisar os **indicadores de vendas** da empresa.
+* Como entender as **métricas que compõem seus KPIs;**
+* Como criar uma **dashboard para visão única** dos números da empresa;
+* Como fazer **análises de dados** cruzando dados de clientes com vendas;
+* Como analisar a **sazonalidade** de compras;
+* Como descobrir quais são os **produtos que mais vendem;**
+* Como definir o **cliente ideal** para cada categoria de produto.
 
 Seja para ter a primeira visão do negócio, para melhorar o produto no qual você trabalha ou até mesmo para criar segmentações de clientes por categoria de compra, usando inteligência, você utilizará os dados da empresa.
 
@@ -66,9 +66,9 @@ Antes de mais nada, imagino que você saiba utilizar o Excel. Atualmente ter con
 
 Partindo desse ponto, [abra o Google Sheets, crie uma nova planilha](sheets.new) e crie 3 abas nessa planilha:
 
-1. Clientes
-2. Vendas
-3. Análises
+1. **Clientes**
+2. **Vendas**
+3. **Análises**
 
 Estruture as colunas de cada uma das abas dessa sua planilha com as informações relevantes para sua empresa. O exemplo que utilizaremos é de um ecommerce que vende produtos da Apple:
 
@@ -80,7 +80,7 @@ Estruture as colunas de cada uma das abas dessa sua planilha com as informaçõe
 | 001.000.000-00 | Cláudia Soares | 26 | São Paulo | claudia@gmail.com |
 | 002.000.000-00 | Jorge Pereira | 33 | Rio de Janeiro | jorge@gmail.com |
 
-Preencha essa aba com os dados dos seus clientes, buscando enriquecer as informações demográficas o máximo possível que faça sentido para você. Realizar essa tarefa de forma manual ou automatizada é uma resposta que somente você tem, sabendo o tamanho da empresa em que trabalha.
+Preencha essa aba com os dados dos seus clientes, buscando **enriquecer as informações demográficas** o máximo possível que faça sentido para você. Realizar essa tarefa de forma manual ou automatizada é uma resposta que somente você tem, sabendo o tamanho da empresa em que trabalha.
 
 Caso o volume disso seja muito grande, procure viabilizar alguma maneira de automatizar os dados ou busque entender com o setor de TI da sua empresa se já existe um banco de dados estruturado.
 
@@ -110,15 +110,15 @@ Esse é um assunto que eu poderia escrever dezenas de artigos falando sobre, e i
 
 Mas em linhas gerais, as principais análises para o exemplo criado seriam:
 
-* Produtos e categorias que mais vendem por estado;
-* Faixas etárias que têm mais adesão por produto;
-* Produtos que normalmente são comprados juntos (basket case analysis);
-* Análises RFM (recency - frequency - monetary value);
-* Recomendações de produtos que são comprados em sequência (ex: quem compra iPhone após duas semanas compra Airpods)
-* Sazonalidade de compra com base em categoria/produto;
+* **Produtos e categorias** que mais vendem por estado;
+* **Faixas etárias** que têm mais adesão por produto;
+* Produtos que normalmente são comprados juntos **(basket case analysis);**
+* **Análises RFM** (recency - frequency - monetary value);
+* Recomendações de **produtos que são comprados em sequência** (ex: quem compra iPhone após duas semanas compra Airpods)
+* **Sazonalidade de compra** com base em categoria/produto;
 * Sazonalidade de compra por faixa etária;
-* Ticket médio de compra por faixa etária;
-* Valor total gasto em 12 meses (LTM) por produto da primeira compra.
+* **Ticket médio** de compra por faixa etária;
+* Valor total gasto em 12 meses **(LTM)** por produto da primeira compra.
 
 A lista de análises é praticamente infinita, mas somente com esses exemplos você já deve ter conseguido imaginar quão valiosas são as informações que você conseguirá extrair dessas análises.
 
@@ -172,7 +172,7 @@ Você conseguiu entender o valor por trás de um ecossistema de dados? Pensou em
 
 Se você tiver dúvidas sobre esse assunto, sinta-se a vontade para me chamar no [Instagram @leonardofullana](), me enviar um email ou uma mensagem direta no [LinkedIn](https://linkedin.com/in/leonardofullana).
 
-Ah! Não esqueça de se increver na caixa abaixo do texto para receber as novas publicações quentinhas assim que sairem do forno direto no seu email.
+Ah! Não esqueça de **se increver na caixa abaixo do texto para receber as novas publicações** quentinhas assim que sairem do forno direto no seu email.
 
 Até o próximo artigo!
 

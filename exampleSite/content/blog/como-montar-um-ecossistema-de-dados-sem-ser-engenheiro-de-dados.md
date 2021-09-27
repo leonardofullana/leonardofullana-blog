@@ -146,7 +146,7 @@ Fazendo uma análise do valor total gasto ao longo de 12 meses (LTM) de seus cli
 
 Ao mapear qual a frequência de compra de capinhas de iPhones, por exemplo, você consegue entender exatamente qual é o período de tempo ideal para que você faça uma nova oferta para o cliente do mesmo produto, ou de um muito similar.
 
-## Precisa-se de um analista de dados para fazer essas análises?
+## Você precisa de um analista de dados para fazer essas análises?
 
 Em linhas gerais, um profissional especializado nisso conseguirá investir o tempo e energia dele em fazer análises cada vez mais completas e complexas, mas isso não te impede de começar a realizá-las.
 

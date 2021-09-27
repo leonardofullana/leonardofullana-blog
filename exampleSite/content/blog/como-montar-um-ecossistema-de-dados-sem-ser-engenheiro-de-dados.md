@@ -152,7 +152,7 @@ Em linhas gerais, um profissional especializado nisso conseguirá investir o tem
 
 **Eu recomendo colocar uma pessoa na empresa/time para pensar somente nisso** sempre que possível, e utilizar o seu tempo para entender como utilizar essas análises para melhorar o negócio e gerar mais valor, de forma inteligente.
 
-## Como começar à fazer essas análises?
+## Como começar a fazer essas análises?
 
 Eu já te dei o caminho das pedras, agora cabe a você entender como criar esse ecossistema, mapear quais são as análises que poderiam gerar mais valor para o negócio, e especificamente para o seu setor/cargo, e colocar a mão na massa.
 

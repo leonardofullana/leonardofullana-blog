@@ -48,6 +48,8 @@ Você só precisa pensar no conceito de data lake: **um repositório único** on
 
 ## Como criar um data lake sem ser engenheiro de dados?
 
+![datalake-sem-engenheiro-de-dados](/uploads/lago-blogpost-datalake.png "Data Lake")
+
 Partindo do pressuposto que você está no pior cenário possível, sem um banco de dados estruturado - com tabelas de dimensões de clientes e fatos transacionais - e sem nenhum sistema que gere inteligência de negócios para a empresa.
 
 Para dar o primeiro passo e começar a criar o seu data lake você só **precisará do bom e velho excel.** Para ser mais específico, você precisará de uma planilha, que eu te recomendo criar no Google Sheets.
@@ -57,6 +59,8 @@ A ideia por trás do que criaremos é: ter em uma única aba da sua nova planilh
 Com isso, acredite se quiser, você poderá começar a criar análises de dados que agregam valor.
 
 ## Como estruturar essa planilha do Google Sheets?
+
+![google-sheets-new-spreadsheet-blogpost](/uploads/google-sheets-blogpost.png "Google Sheets")
 
 Antes de mais nada, imagino que você saiba utilizar o Excel. Atualmente ter conhecimento de Pacote Office é básico, e se você está lendo esse artigo acredito que você não esteja no comecinho da sua carreira.
 
@@ -99,6 +103,8 @@ Utilizando a função PROCV você conseguirá de forma muito simplificada cruzar
 Mas somente uma visão única por si só não gera valor, este está de fato na **forma como você realizará as análises em cima desses dados.**
 
 ## Quais análises de compras mais geram insights?
+
+![analise-compras-insights](/uploads/analises-insights-blogpost.png "Análises de Dados")
 
 Esse é um assunto que eu poderia escrever dezenas de artigos falando sobre, e infelizmente eu não consigo te dar a resposta exata. Isso depende muito do seu cargo, da sua área e, principalmente, da empresa que você trabalha.
 
@@ -152,7 +158,9 @@ Em linhas gerais, um profissional especializado nisso conseguirá investir o tem
 
 **Eu recomendo colocar uma pessoa na empresa/time para pensar somente nisso** sempre que possível, e utilizar o seu tempo para entender como utilizar essas análises para melhorar o negócio e gerar mais valor, de forma inteligente.
 
-## Como começar a fazer essas análises?
+## Como colocar a mão na massa e fazer essas análises?
+
+![hands-on-working-data-analysis-blogpost](/uploads/hands-on-working-data-analysis-blogpost.png "Mãos no Notebook Trabalhando")
 
 Eu já te dei o caminho das pedras, agora cabe a você entender como criar esse ecossistema, mapear quais são as análises que poderiam gerar mais valor para o negócio, e especificamente para o seu setor/cargo, e colocar a mão na massa.
 
@@ -168,4 +176,4 @@ Ah! Não esqueça de se increver na caixa abaixo do texto para receber as novas 
 
 Até o próximo artigo!
 
-![image](../../images/post/post-1.jpg)
+_Photos by_ [_Unsplash_](https://unsplash.com/s/photos/working-on-laptop?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)

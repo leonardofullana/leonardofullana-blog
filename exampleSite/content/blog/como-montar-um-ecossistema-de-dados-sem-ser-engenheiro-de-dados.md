@@ -164,6 +164,8 @@ Você conseguiu entender o valor por trás de um ecossistema de dados? Pensou em
 
 Se você tiver dúvidas sobre esse assunto, sinta-se a vontade para me chamar no [Instagram @leonardofullana](), me enviar um email ou uma mensagem direta no [LinkedIn](https://linkedin.com/in/leonardofullana).
 
+Ah! Não esqueça de se increver na caixa abaixo do texto para receber as novas publicações quentinhas assim que sairem do forno direto no seu email.
+
 Até o próximo artigo!
 
 ![image](../../images/post/post-1.jpg)

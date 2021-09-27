@@ -1,5 +1,5 @@
 +++
-categories = ["Análises de Dados"]
+categories = ["Análise de Dados"]
 date = 2019-10-29T04:07:47Z
 description = "Você sabe o que é um ecossistema de dados e como utilizar esse conceito de forma eficaz mesmo sem ser engenheiro de dados?"
 image = "/uploads/blogpost-ecossistema-dados.png"

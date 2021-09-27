@@ -5,7 +5,7 @@ defaultContentLanguage = "pt"
 paginate = 6
 summaryLength = "10"
 theme = "liva-hugo"
-title = "Blog Leonardo Fullana | Cultura de produto data-driven"
+title = "Blog do Fullana | Cultura de produto data-driven"
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]

@@ -8,7 +8,7 @@ title = "Como o Facebook uniu design e dados para inovar ao criar seu mapa"
 type = "featured"
 
 +++
-## O Facebook conseguiu muito mais do que um mapa ao unir dados e design.
+### O Facebook conseguiu muito mais do que um mapa ao unir dados e design.
 
 No final de 2020 o Facebook lançou um mapa global próprio dentro da  plataforma. Isso pode parecer muito ordinário quando pensamos no Google Maps, por exemplo, mas na realidade **o Facebook criou um mapa social.**
 
@@ -48,7 +48,7 @@ Na parte cartográfica, a equipe teve um grande cuidado em enriquecer o mapa com
 
 Agora entra a parte que eu pessoalmente considero mais empolgante, os cartólogos que me perdoem. É chegado o momento de decidir o que destacar no mapa. **O objetivo do mapa é inspirar as pessoas a explorarem seus arredores,** criar conexões de carne e osso com outras pessoas e ter experiência no mundo real.
 
-Eles mapearam muito detalhadamente os aeroportos, os locais para se reunir, como parques, comércios, museus e pontos turísticos. 
+Eles mapearam muito detalhadamente os aeroportos, os locais para se reunir, como parques, comércios, museus e pontos turísticos.
 
 Locais para conhecer a pé, porque afinal de contas, esse não é um mapa para ser usado em um carro, a ideia é focar em calçadas, trilhas, caminhos para pedestres, etc.
 

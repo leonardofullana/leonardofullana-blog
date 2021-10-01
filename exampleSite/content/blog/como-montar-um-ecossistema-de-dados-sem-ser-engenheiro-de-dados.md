@@ -5,7 +5,7 @@ description = "Você sabe o que é um ecossistema de dados e como utilizar esse 
 image = "/uploads/blogpost-ecossistema-dados.png"
 tags = []
 title = "Como montar um ecossistema de dados sem ser engenheiro de dados"
-type = "featured"
+type = "post"
 
 +++
 ## Utilizar os dados da empresa de forma integrada é fundamental para o sucesso no longo prazo

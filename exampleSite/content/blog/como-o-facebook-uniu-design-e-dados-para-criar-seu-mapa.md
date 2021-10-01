@@ -9,43 +9,25 @@ title = "Como o Facebook uniu design e dados para criar seu mapa"
 type = "featured"
 
 +++
-## Utilizar os dados da empresa de forma integrada é fundamental para o sucesso no longo prazo
+## O Facebook conseguiu muito mais do que um mapa ao unir dados e design.
 
-Todas as empresas, independente de seu tamanho, faturamento e maturidade no uso de dados deve possuir um **ecossistema de dados.**
+No final de 2020 o Facebook lançou um mapa global próprio dentro da  plataforma. Isso pode parecer muito ordinário quando pensamos no Google Maps, por exemplo, mas na realidade **o Facebook criou um mapa social.**
 
-Realizar análises integradas entre os dados de clientes e suas respectivas compras leva empresas à outro patamar no uso de dados, e consequentemente, aumentam suas chances de sucesso à médio e longo prazo.
+### Por que "criar do zero" uma funcionalidade que já existe no mercado?
 
-## Qual a vantagem de analisar os dados da empresa?
+O objetivo do Facebook com a criação de um mapa próprio foi poder gerar **o senso de localização por meio dos olhos** da própria comunidade, focando muito mais na vizinhança, em parques e locais sociais do que nas tradicionais ruas.
 
-Existem **diversos** **motivos para você querer realizar análises de dados** da empresa que você trabalha olhando para as diversas métricas presentes.
+O Facebook Map foi criado pela Stamen, uma empresa especializada em cartografia juntamente com uma equipe de engenheiros, designers e especialistas de dados do Facebook.
 
-Você provavelmente quer aprender algum item dessa lista:
+Ao unir essas três equipe diferentes o time conseguiu colaborar com dados, ferramental e código ao redor de todo o pipeline de criação dos mapas.
 
-* Como analisar os **indicadores de vendas** da empresa.
-* Como entender as **métricas que compõem seus KPIs;**
-* Como criar uma **dashboard para visão única** dos números da empresa;
-* Como fazer **análises de dados** cruzando dados de clientes com vendas;
-* Como analisar a **sazonalidade** de compras;
-* Como descobrir quais são os **produtos que mais vendem;**
-* Como definir o **cliente ideal** para cada categoria de produto.
+### Como conseguir dados de mapas ao redor do mundo?
 
-Seja para ter a primeira visão do negócio, para melhorar o produto no qual você trabalha ou até mesmo para criar segmentações de clientes por categoria de compra, usando inteligência, você utilizará os dados da empresa.
+Os dados primários por trás do mapa foram obtidos por meio do OpenStreetMap, uma base de dados global e open source, conhecida como a Wikipedia dos Mapas.
 
-Independente de qual seja o seu cargo, acredite, **realizar análises de dados baseadas em um ecossistema de dados** serão uma verdadeira virada de chave profissional para você.
+O processo de obtenção dos dados foi feito em massa, mas o processo mais complexo começa após a equipe já ter os dados em mãos: **a revisão dos dados.** 
 
-## O que é um ecossistema de dados?
-
-Um _ecossistema de dados_, muito mais do que tecnologias ou estruturas complexas de dados é uma forma de pensar.
-
-Se a empresa que você trabalha não possui maturidade na área de dados ou _business intelligence_ e ainda não tem um _data warehouse_, você não precisa se desesperar. **Comece simples criando um _data lake_.**
-
-##### O que é um data lake?
-
-> Data lake é o conceito por trás de um repositório único onde todos os tipos de dados da empresa são armazenados e disponilizados em sua forma bruta.
-
-Você deve estar se perguntando agora como criar um data lake sem uma equipe de dados, ou no mínimo, um engenheiro de dados, mas realizar esse feito, você mesmo, é muito menos complexo do que você imagina.
-
-Você só precisa pensar no conceito de data lake: **um repositório único** onde os dados brutos da sua empresa são armazenados.
+Para garantir a qualidade da revisão, semanalmente era criado um snapshot de todo o processo feito durante aquela semana, para garantir que estava tudo certo.
 
 ## Como criar um data lake sem ser engenheiro de dados?
 

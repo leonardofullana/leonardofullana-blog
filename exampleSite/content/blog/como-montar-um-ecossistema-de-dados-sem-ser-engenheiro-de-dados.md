@@ -8,13 +8,13 @@ title = "Como montar um ecossistema de dados sem ser engenheiro de dados"
 type = "post"
 
 +++
-## Utilizar os dados da empresa de forma integrada é fundamental para o sucesso no longo prazo
+### Utilizar os dados da empresa de forma integrada é fundamental para o sucesso no longo prazo
 
 Todas as empresas, independente de seu tamanho, faturamento e maturidade no uso de dados deve possuir um **ecossistema de dados.**
 
 Realizar análises integradas entre os dados de clientes e suas respectivas compras leva empresas à outro patamar no uso de dados, e consequentemente, aumentam suas chances de sucesso à médio e longo prazo.
 
-## Qual a vantagem de analisar os dados da empresa?
+### Qual a vantagem de analisar os dados da empresa?
 
 Existem **diversos** **motivos para você querer realizar análises de dados** da empresa que você trabalha olhando para as diversas métricas presentes.
 
@@ -32,7 +32,7 @@ Seja para ter a primeira visão do negócio, para melhorar o produto no qual voc
 
 Independente de qual seja o seu cargo, acredite, **realizar análises de dados baseadas em um ecossistema de dados** serão uma verdadeira virada de chave profissional para você.
 
-## O que é um ecossistema de dados?
+### O que é um ecossistema de dados?
 
 Um _ecossistema de dados_, muito mais do que tecnologias ou estruturas complexas de dados é uma forma de pensar.
 
@@ -46,7 +46,7 @@ Você deve estar se perguntando agora como criar um data lake sem uma equipe de 
 
 Você só precisa pensar no conceito de data lake: **um repositório único** onde os dados brutos da sua empresa são armazenados.
 
-## Como criar um data lake sem ser engenheiro de dados?
+### Como criar um data lake sem ser engenheiro de dados?
 
 ![datalake-sem-engenheiro-de-dados](/uploads/lago-blogpost-datalake.png "Data Lake")
 
@@ -58,7 +58,7 @@ A ideia por trás do que criaremos é: ter em uma única aba da sua nova planilh
 
 Com isso, acredite se quiser, você poderá começar a criar análises de dados que agregam valor.
 
-## Como estruturar essa planilha do Google Sheets?
+### Como estruturar essa planilha do Google Sheets?
 
 ![google-sheets-new-spreadsheet-blogpost](/uploads/google-sheets-blogpost.png "Google Sheets")
 
@@ -102,7 +102,7 @@ Utilizando a função PROCV você conseguirá de forma muito simplificada cruzar
 
 Mas somente uma visão única por si só não gera valor, este está de fato na **forma como você realizará as análises em cima desses dados.**
 
-## Quais análises de compras mais geram insights?
+### Quais análises de compras mais geram insights?
 
 ![analise-compras-insights](/uploads/analises-insights-blogpost.png "Análises de Dados")
 
@@ -152,13 +152,13 @@ Fazendo uma análise do valor total gasto ao longo de 12 meses (LTM) de seus cli
 
 Ao mapear qual a frequência de compra de capinhas de iPhones, por exemplo, você consegue entender exatamente qual é o período de tempo ideal para que você faça uma nova oferta para o cliente do mesmo produto, ou de um muito similar.
 
-## Você precisa de um analista de dados para fazer essas análises?
+### Você precisa de um analista de dados para fazer essas análises?
 
 Em linhas gerais, um profissional especializado nisso conseguirá investir o tempo e energia dele em fazer análises cada vez mais completas e complexas, mas isso não te impede de começar a realizá-las.
 
 **Eu recomendo colocar uma pessoa na empresa/time para pensar somente nisso** sempre que possível, e utilizar o seu tempo para entender como utilizar essas análises para melhorar o negócio e gerar mais valor, de forma inteligente.
 
-## Como colocar a mão na massa e fazer essas análises?
+### Como colocar a mão na massa e fazer essas análises?
 
 ![hands-on-working-data-analysis-blogpost](/uploads/hands-on-working-data-analysis-blogpost.png "Mãos no Notebook Trabalhando")
 
